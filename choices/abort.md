@@ -1,0 +1,1 @@
+You have aborted and found your way to a local hospital to get help.
