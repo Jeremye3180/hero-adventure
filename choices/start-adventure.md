@@ -5,6 +5,6 @@
 
 
 
-## [Stay home for the day](Zork.md)
+## [Stay Home](Zork.md)
 
-## [Go outside](Batman.md)
+## [Go with Batman](Batman.md)
