@@ -5,4 +5,4 @@ The purpose of the project was to learn how to collaberate using git and github 
 
 
 
-click [here](start-adventure.md) to begin.
+click [here](choices/start-adventure.md) to begin.
