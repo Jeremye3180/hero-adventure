@@ -1,3 +1,6 @@
 You stay home, only to find yourself enticed in a game of Zork:
 
-## []()
+## [Stay on computer](computer.md)
+
+
+## [Get up and go outside](outside.md)
