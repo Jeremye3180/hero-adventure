@@ -1,4 +1,4 @@
-You stay home, only to find yourself enticed in a game of Zork:
+You stay home, only to find yourself enticed in an action packed game of Zork:
 
 ## [Stay on computer](computer.md)
 
