@@ -1,4 +1,4 @@
-Zorked Out of Your House:
+Zorked out of your House:
 ---
 The day conitinues on, sadly, your eyes are stuck to the screen to note the changes in time.  
 You slowly arise from your chair after playing for 10hrs only to find that you are being kicked  
