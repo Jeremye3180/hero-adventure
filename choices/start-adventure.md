@@ -1,4 +1,4 @@
-### Are you lazy or Brave??? 
+### Are you azy or Brave??? 
 ---
 ## [Stay Home](Zork.md)
 
