@@ -3,4 +3,4 @@ You go on mission and find yourself in another one of Jokers tricks and you get 
 
 ##[abort the mission](abort.md)
 
-##[show must go on](brave.mdg)
+##[show must go on](brave.md)
